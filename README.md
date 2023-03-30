@@ -1,6 +1,6 @@
-# Code Debugging
+# Depuración del código
 
 
-Suppose you have written a program that calculates the cost of fuel at a gas station. Then the management decided to add a new option to it: a discount for regular customers. A few days later the updated version of the program is ready.
+Supongamos que escribiste un programa que calcula el costo del combustible en una gasolinera. Luego, la gerencia decidió agregarle una nueva opción: un descuento para clientes habituales. Unos días después, la versión actualizada del programa está lista.
 
-But something is wrong with it. A frightened sales manager comes running to you and says that the calculator gives out the wrong values: regular customers now pay more for gasoline than before. Let's find where the error occurs.
+Pero algo está mal con ella. Un gerente de ventas asustado viene corriendo y te informa que la calculadora da valores incorrectos: los clientes habituales ahora pagan más por la gasolina que antes. Vamos a buscar dónde se produce el error.
